@@ -1,0 +1,30 @@
+
+body{
+
+  background-color: #232a3b;
+  color:white;
+  display:flex;
+  display: inline-flex;
+}
+nav{
+  display:flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+img{
+  display:20%;
+  justify-content: space-around;
+  margin: 30px;  
+}
+a{
+  text-decoration: none;
+  justify-content: center;
+  color:white;
+  margin:15px;
+  
+}
+button{
+  display: inline-flex;
+  margin-left: 20px;
+  justify-content: end;
+}
